@@ -1,0 +1,179 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rede_",
+				"rede_treinada"
+			]
+		]
+	},
+	"build_system": "Packages/Elixir/elixir.sublime-build",
+	"command_palette":
+	{
+		"height": 318.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Terminal",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/wesley/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/wesley/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/wesley/.config/sublime-text-2/Packages/User/Terminal.sublime-settings",
+		"/opt/dropbox/dropbox-pessoal/Dropbox/Profile/Desktop/file",
+		"/opt/dropbox/dropbox-pessoal/Dropbox/Profile/Desktop/deploy_manager.sh",
+		"/home/wesley/Documents/Concrete/Posts/Bash Regex/Post bash regex",
+		"/home/wesley/socket.js",
+		"/home/wesley/Local/development/titans/idiomas-ios/scripts/mail-notification.sh",
+		"/home/wesley/Local/development/titans/idiomas-ios/scripts/mr_release.sh",
+		"/home/wesley/Local/idiomas-android/config/scripts/pos-deploy.sh",
+		"/home/wesley/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/wesley/.config/sublime-text-2/Packages/RubyTest/RubyTest.sublime-settings",
+		"/home/wesley/.config/sublime-text-2/Packages/RubyTest/Default.sublime-keymap",
+		"/home/wesley/.config/sublime-text-2/Packages/Terminal/Terminal.sublime-settings",
+		"/home/wesley/.config/sublime-text-2/Packages/User/RubyTest.sublime-settings",
+		"/home/wesley/.config/sublime-text-2/Packages/User/CTags.sublime-settings",
+		"/home/wesley/Desktop/setup_magento.txt",
+		"/home/wesley/Documents/Concrete/POCs/LBV/Streaming/Detalhes.txt"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\n",
+			"times",
+			" ",
+			" ",
+			"\\t"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			" ",
+			"vezes",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 186.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true
+}
