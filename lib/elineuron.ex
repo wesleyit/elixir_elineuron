@@ -8,14 +8,6 @@
 # LICENCE CREATIVE COMMONS BY - 2014
 # http://creativecommons.org/licenses/by/2.0/legalcode
 # ##########################################################
-    ##
-    ## Changelog - Eu juro que isso vai pro git um dia
-    ## 0.1 - Nasceu a criança
-    ## 0.2 - Passei a usar strings com """ para reduzir a
-    ## quantidade de IO.puts e simplifiquei a soma na função
-    ## principal
-    ## 0.3 - Adicionei esse cabeçalho liiiindo!
-    ## ##############################################################
 
 
 defmodule Elineuron do
