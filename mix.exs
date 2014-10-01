@@ -4,8 +4,7 @@ defmodule Elineuron.Mixfile do
   def project do
     [app: :elineuron,
      version: "0.0.1",
-     # TODO: update to 1.0 final
-     elixir: "~> 1.0.0-rc2",
+     elixir: "~> 1.0",
      deps: deps]
   end
 
