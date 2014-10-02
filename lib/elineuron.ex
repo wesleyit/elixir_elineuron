@@ -15,11 +15,11 @@ defmodule Elineuron do
   -- Neuron simulation
 
   This module should represent a neuron in a neural net.
-  It gives 3 possibilities of computing weights:
+  It gives 3 possibilities of activation functions:
 
-  - hiperbolic
-  - logistic
-  - linear
+  - hiperbolic (outputs between -1 and 1)
+  - logistic (outputs between 0 and 1)
+  - linear (0 or 1)
   """
   @doc "Main neuron function"
   def neuron(function, entries) do
@@ -57,8 +57,8 @@ defmodule Elineuron do
   defp activation(function, x) when function == :linear do
     cond do
       x > 0 -> 1
-               x < 0 -> 0
-                        true -> 0
+      x < 0 -> 0
+      true  -> 0
     end
   end
 
