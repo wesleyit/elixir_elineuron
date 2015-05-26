@@ -64,3 +64,4 @@ defmodule Elineuron do
   end
 
 end
+# vim: ft=elixir
