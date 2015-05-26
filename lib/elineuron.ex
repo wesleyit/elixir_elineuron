@@ -39,6 +39,7 @@ defmodule Elineuron do
     result
   end
 
+
   defp activation(function, x) when function == :hyperbolic do
     e = 2.71828182846 ## euler
     a = 1 ## function curve
