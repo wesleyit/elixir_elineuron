@@ -9,12 +9,28 @@
 			]
 		]
 	},
-	"build_system": "Packages/Elixir/elixir.sublime-build",
+	"build_system": "Packages/Elixir/elixir-mix-test.sublime-build",
 	"command_palette":
 	{
-		"height": 318.0,
+		"height": 98.0,
 		"selected_items":
 		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
 			[
 				"Package Control: ins",
 				"Package Control: Install Package"
@@ -33,10 +49,6 @@
 			],
 			[
 				"packa",
-				"Package Control: Install Package"
-			],
-			[
-				"",
 				"Package Control: Install Package"
 			]
 		],
@@ -57,6 +69,14 @@
 	},
 	"file_history":
 	[
+		"/home/wesley/.config/sublime-text-2/Packages/Terminal/Default (Linux).sublime-keymap",
+		"/home/wesley/.config/sublime-text-2/Packages/User/Git.sublime-settings",
+		"/home/wesley/.config/sublime-text-2/Packages/Git/Git.sublime-settings",
+		"/home/wesley/Projects/elineuron/test/elineuron_test.exs",
+		"/home/wesley/Projects/elineuron/test/test_runner.sh",
+		"/home/wesley/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/wesley/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/wesley/Projects/elineuron/lib/elineuron.ex",
 		"/home/wesley/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
 		"/home/wesley/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
 		"/home/wesley/.config/sublime-text-2/Packages/User/Terminal.sublime-settings",
@@ -67,7 +87,6 @@
 		"/home/wesley/Local/development/titans/idiomas-ios/scripts/mail-notification.sh",
 		"/home/wesley/Local/development/titans/idiomas-ios/scripts/mr_release.sh",
 		"/home/wesley/Local/idiomas-android/config/scripts/pos-deploy.sh",
-		"/home/wesley/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
 		"/home/wesley/.config/sublime-text-2/Packages/RubyTest/RubyTest.sublime-settings",
 		"/home/wesley/.config/sublime-text-2/Packages/RubyTest/Default.sublime-keymap",
 		"/home/wesley/.config/sublime-text-2/Packages/Terminal/Terminal.sublime-settings",
